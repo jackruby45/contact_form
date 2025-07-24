@@ -1,0 +1,5 @@
+{
+  "name": "Contact Form",
+  "description": "A simple contact form to collect user information and file uploads.",
+  "requestFramePermissions": []
+}
