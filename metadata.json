@@ -1,5 +1,6 @@
 {
-  "name": "Contact Form",
-  "description": "A simple contact form to collect user information and file uploads.",
-  "requestFramePermissions": []
+  "name": " Pipeline Dynamics Simulator Rev-4",
+  "description": "An interactive simulation of laminar, turbulent, and fully turbulent flow inside a natural gas pipeline, with a live velocity profile graph and data dashboard.",
+  "requestFramePermissions": [],
+  "prompt": ""
 }
